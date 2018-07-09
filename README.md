@@ -29,10 +29,10 @@ To compile this code, you need to have following tools and library intalled on y
 | Library | URL |
 | ------ | ------ |
 | Arduino | https://www.arduino.cc/en/Main/Software |
-| ESP8266 Library | [https://github.com/esp8266/Arduino][PlGh] |
-| DHT Library | [https://github.com/adafruit/DHT-sensor-library][PlGd] |
-| MQTT Pubsub Client | [https://github.com/knolleary/pubsubclient[PlOd] |
-| Documentation Link | [https://dreamziot.com/docs/][PlMe] |
+| ESP8266 Library | https://github.com/esp8266/Arduino |
+| DHT Library | https://github.com/adafruit/DHT-sensor-library |
+| MQTT Pubsub Client | https://github.com/knolleary/pubsubclient |
+| Documentation Link | https://dreamziot.com/docs/ |
 
 Thanks,
 Team DreamzIoT
