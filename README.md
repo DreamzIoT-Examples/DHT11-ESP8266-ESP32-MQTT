@@ -28,7 +28,7 @@ To compile this code, you need to have following tools and library intalled on y
 
 | Library | URL |
 | ------ | ------ |
-| Arduino | [https://www.arduino.cc/en/Main/Software][PlDb] |
+| Arduino | https://www.arduino.cc/en/Main/Software |
 | ESP8266 Library | [https://github.com/esp8266/Arduino][PlGh] |
 | DHT Library | [https://github.com/adafruit/DHT-sensor-library][PlGd] |
 | MQTT Pubsub Client | [https://github.com/knolleary/pubsubclient[PlOd] |
