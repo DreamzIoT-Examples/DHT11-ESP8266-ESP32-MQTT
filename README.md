@@ -34,6 +34,5 @@ To compile this code, you need to have following tools and library intalled on y
 | MQTT Pubsub Client | [https://github.com/knolleary/pubsubclient[PlOd] |
 | Documentation Link | [https://dreamziot.com/docs/][PlMe] |
 
-Thanks
+Thanks,
 Team DreamzIoT
-https://Dreamziot.com
